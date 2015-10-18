@@ -8,7 +8,7 @@
 #############################################################################
 ##### Do it for min 3 times or more:
 
-Try git [Here](https://try.github.io){:target="_blank"}
+Try git [Here](https://try.github.io)
 
 ![tryGit](http://i.imgur.com/XcN8pPR.png?1)
 
