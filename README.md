@@ -1,10 +1,10 @@
-# GIT FAST REVIEW in 3 STEPS!
+# Learn GIT in 3 STEPS!
 
 ##########
-### STEP I - my Web site for review: [LIVE DEMO] (https://ddeveloperr.github.io/GIT_SUPER_RFERENCE_site/) 
+### STEP I - my Web site review: [LIVE DEMO] (https://ddeveloperr.github.io/GIT_SUPER_RFERENCE_site/) 
 #############################################################################
 ###########
-###STEP II - ### VISUAL review, retype, repeat, AND REMEMBER WORKFLOW #
+###STEP II - ### Visual review, retype, repeat, AND REMEMBER WORKFLOW #
 #############################################################################
 ##### Do it for min 3 times or more:
 
