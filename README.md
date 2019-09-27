@@ -4,7 +4,7 @@
 ### STEP I - my Web site review: [LIVE DEMO] (https://ddeveloperr.github.io/GIT_SUPER_RFERENCE_site/) 
 #############################################################################
 ###########
-###STEP II - ### Visual review, retype, repeat, AND REMEMBER WORKFLOW #
+### STEP II - ### Visual review, retype, repeat, AND REMEMBER WORKFLOW #
 #############################################################################
 ##### Do it for min 3 times or more:
 
@@ -21,7 +21,7 @@ Check out the best [visual git command review] (http://ndpsoftware.com/git-cheat
 ![git-cheatsheet](http://i.imgur.com/GiFXr7G.png?2)
 #############
 ###########
-###STEP III - Basic, Braches, Viewing info
+### STEP III - Basic, Braches, Viewing info
 #############################################################################
 #############
 #### BASICS #
